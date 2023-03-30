@@ -3,4 +3,6 @@
     <string name="alas">Alas</string>
     <string name="tinggi">Tinggi</string>
     <string name="hitung">Hitung</string>
+    <string name="HitungSegitiga">Hitung Segitga</string>
+    <string name="hasil">hasil</string>
 </resources>
