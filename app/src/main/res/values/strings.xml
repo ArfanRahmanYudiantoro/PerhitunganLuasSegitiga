@@ -4,6 +4,13 @@
     <string name="tinggi">Tinggi</string>
     <string name="hitung">Hitung</string>
     <string name="HitungSegitiga">Hitung Segitga</string>
-    <string name="hasil">hasil</string>
     <string name="luas_x">luas: %1$.2f</string>
+    <string name="alasinput">Masukan alas</string>
+    <string name="alastinggi">Masukan tinggi</string>
+    <string name="Hasil">"Luas : "</string>
+    <string name="Hitung">hitung</string>
+    <string name="alas_invalid">alas tidak boleh kosong.</string>
+    <string name="tinggi_invalid">tinggi tidak boleh kosong.</string>
+
+
 </resources>
